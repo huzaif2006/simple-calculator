@@ -1,0 +1,1 @@
+# this is CLI based simple calculator by using inquirer and typescript.
